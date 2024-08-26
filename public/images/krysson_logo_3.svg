@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="132.1404 212.9779 222.2032 40" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Inter">@import url(https://fonts.googleapis.com/css2?family=Inter%3Aital%2Cwght%400%2C100..900&amp;display=swap);</style>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="matrix(0.9999999999999999, 0, 0, 0.9999999999999999, 132.1404266357422, 226.31187438964844)">
+    <g fill="#F3603C" style="" transform="matrix(1.180429, 0, 0, 1.111156, 0, 0)">
+      <path d="M2.786 10.286c1.538 0 2.785 1.279 2.785 2.857C5.571 14.72 4.324 16 2.786 16 1.247 16 0 14.72 0 13.143c0-1.578 1.247-2.857 2.786-2.857zM2.786 0C4.324 0 5.57 1.28 5.57 2.857c0 1.578-1.247 2.857-2.785 2.857C1.247 5.714 0 4.435 0 2.857 0 1.28 1.247 0 2.786 0zm10.028 0C14.353 0 15.6 1.28 15.6 2.857c0 1.578-1.247 2.857-2.786 2.857-1.538 0-2.785-1.279-2.785-2.857C10.029 1.28 11.276 0 12.814 0z"/>
+      <ellipse cx="12.814" cy="13.257" opacity=".5" rx="2.786" ry="2.857"/>
+    </g>
+    <text style="fill: rgb(36, 45, 82); font-family: Inter; font-size: 33px; font-weight: 700; white-space: pre;" x="21.648" y="22.499" dx="0.124" dy="-3.833">krysson.dev</text>
+  </g>
+</svg>
